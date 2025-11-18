@@ -36,7 +36,7 @@ This project investigates quarterly NO₂ emission dynamics in the vicinity of t
 
 ![NO₂ Change 2022–2024](https://github.com/gienahData/God-Budapest-no2-analysis/blob/main/NO2_God_Quarterly_FINAL.gif)
 
-https://github.com/gienahData/God-Budapest-no2-analysis/blob/main/NO2_Quarterly_Overview_PANEL.png
+[https://github.com/gienahData/God-Budapest-no2-analysis/blob/main/NO2_Quarterly_Overview_PANEL.png](https://github.com/gienahData/God-Budapest-no2-analysis/blob/4a02e6a5cf9f73989068786ad7d800a3251287fb/NO2_Quarterly_Overview_PANEL.png)
 
 ## 🛠️ Credits
 
