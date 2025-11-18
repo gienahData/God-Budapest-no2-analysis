@@ -13,7 +13,7 @@ This project investigates quarterly NO₂ emission dynamics in the vicinity of t
 ## 📦 Contents
 
 - `gee_script.js`: Earth Engine script to generate NO₂ quarterly composites 
-- `visualization.ipynb`: Python notebook to process and visualize exported TIFFs
+- `NO2_God.ipynb`: Python notebook to process and visualize exported TIFFs
 - `/outputs`: PNGs, GIFs, and map panels
 - `/data`: Sentinel-5P quarterly GeoTIFFs (processed)
 - `/docs`: Presentation decks, reports, and public summaries
