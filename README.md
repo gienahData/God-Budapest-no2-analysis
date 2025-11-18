@@ -12,7 +12,7 @@ This project investigates quarterly NO₂ emission dynamics in the vicinity of t
 
 ## 📦 Contents
 
-- `gee_script.js`: Earth Engine script to generate NO₂ quarterly composites
+- `gee_script.js`: Earth Engine script to generate NO₂ quarterly composites https://github.com/gienahData/God-Budapest-no2-analysis/blob/main/gee_script.js
 - `visualization.ipynb`: Python notebook to process and visualize exported TIFFs
 - `/outputs`: PNGs, GIFs, and map panels
 - `/data`: Sentinel-5P quarterly GeoTIFFs (processed)
